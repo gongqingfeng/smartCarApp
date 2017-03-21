@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="bt_not_enabled_leaving">蓝牙未被启用.程序退出.</string>
+    <string name="app_name">蓝牙小车</string>
+    <string name="TextView">蓝牙智能小车操作系统</string>
+    <string name="Button1">前进</string>
+    <string name="Button2">左转</string>
+    <string name="Button3">后退</string>
+    <string name="button">右转</string>
+<string name="Str">连接智能小车</string>
+    <string name="Str2">更改蓝牙名称</string>
+    <string name="menu_exit">扫描蓝牙设备</string>
+    <string name="no_match_device">未配对设备</string>
+    <string name="find_device">查找设备</string>
+    <string name="cancel">取消</string>
+    <string name="select_connect_device">选取连接设备</string>
+    <string name="Button5">ON</string>
+    <string name="Button6">OFF</string>
+    <string name="Button">设置蓝牙可见性</string>
+    <string name="scanning">扫描设备中...</string>
+    <string name="select_device">完成搜索，选择设备连接</string>
+    <string name="none_paired">没有设备已配对</string>
+    <string name="none_found">没有找到设备</string>
+    <string name="title_paired_devices">已配对设备</string>
+    <string name="title_other_devices">其他可用的设备</string>
+    <string name="TextView2">重庆大学通信工程学院集成电路系</string>
+    <string name="Button8">停止</string>
+     <string name="not_connected">您没有连接到设备，请按菜单键进入设备搜索并连接设备。</string>
+      <string name="title_connecting">正在连接...</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_not_connected">没有连接</string>
+    <string name="text">当前档位：</string>
+    <string name="text2">设备状态:</string>
+    <string name="text3">停止</string>
+    <string name="text4">未知</string>
+    <string name="xx">3</string>
+    <string name="TextViews">小车状态:</string>
+</resources>
